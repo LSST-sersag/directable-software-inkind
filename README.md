@@ -38,8 +38,8 @@ Kovačević et al., Simić et al. 13.07, Hajdinjak, Jankov et al. 14.07
 three talks at PCW 2021 Rubing research bytes: AGN - Radović et
 al., Hajdinjak et al., Jankov et al. 
 
-<b>4) Data Preview 0 delegates: </b>
-    - Andjelka Kovačević, Viktor Radović, Djordje Savić, Isidora Jankov 
+<b>4) Data Preview 0 delegates </b>
+  - Andjelka Kovačević, Viktor Radović, Djordje Savić, Isidora Jankov 
 
 <b>5) AGN Data challenge developed notebooks on ANN  </b>
  - Developers: Djordje Savić, Isidora Jankov, Iva Čvorović-Hajdinjak
@@ -52,8 +52,8 @@ al., Hajdinjak et al., Jankov et al.
  - Andjelka Kovačević Convener: [agenda](https://project.lsst.org/meetings/scoc-sc-workshop2/agenda)
   - Session Cochairs: Andjelka Kovačević, Dragana Ilić 
   
-  <b> 8)Trilateral session summary submitted to SCOC </b>
+  <b> 8) Trilateral session summary submitted to SCOC </b>
  - prepared by Andjelka Kovačević, Dragana Ilić, Aprajita Verma, Rachel Street 
 
-<b> 9)LSST TVS SC (Software and Survey task force) membership </b>
+<b> 9) LSST TVS SC (Software and Survey task force) membership </b>
  - Members: Dragana ilić, Andjelka Kovačević, Viktor Radović, Isidora Jankov 
