@@ -17,7 +17,7 @@
 <h3> Activities within LSST </h3> <br> <br>
 
 
-     <b> 1) Forum discussion on overlapping interests in periodicity mining in LSST
+<b> 1) Forum discussion on overlapping interests in periodicity mining in LSST
 light-curves (hybrid event) organized by SER-SAG, June, 14, 2022 </b>
        <br >
        This discussion forum features the following speakers: Rachel Street, Eric
